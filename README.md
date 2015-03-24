@@ -1,5 +1,4 @@
-# automatically generated go games as input for training algorithms
-
+Automatically generated go games as input for training algorithms
 Feel free to use themthe results for your own purposes and experiments.
 
 - sgf: SGF files game001.sgf ... game999.sgf
